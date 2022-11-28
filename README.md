@@ -37,6 +37,7 @@
 </div>
 
 <h2> 🌱 I'm Always learning</h2>
+Currently, I focused on business topics so that I can test myself in this field as well
 <h2> ⚙️ My Tools </h2>
 
 ![Javascript](https://img.shields.io/badge/Javascript-Language-informational?style=flat-square&logo=javascript&color=ffd300)
