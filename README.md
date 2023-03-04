@@ -53,18 +53,10 @@ Currently, I focused on business topics so that I can test myself in this field 
 
 
 <h2> 📈 Github Stats<h2>
+    
+[![Farnaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=farnaziifz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-    <a href="https://github.com/farnaziifz">
-        <img src="https://github-readme-stats.vercel.app/api?username=farnaziifz&show_icons=true&bg_color=20,009A5B,444&title_color=f1f1f1&text_color=f0f0f0&icon_color=404040">
-    </a>
-</p>
-  <div align="center">
-    <a href="https://github.com/farnaziifz">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnaziifz&show_icons=true&bg_color=20,009A5B,444&title_color=f1f1f1&text_color=f0f0f0&icon_color=404040&card_width=500">
-    </a>
-</div>
-<!---
-Farnaziifz/Farnaziifz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farnaziifz&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
+    
+<!-- [![farnazii's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=farnaziifz)](https://github.com/anuraghazra/github-readme-stats) -->
+
